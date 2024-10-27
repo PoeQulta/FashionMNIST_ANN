@@ -23,7 +23,7 @@ Each image belongs to one of the following 10 classes:
 ## Instructions for Running the Code in Jupyter Notebook
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/fashion-mnist-classification.git
+    git clone https://github.com/PoeQulta/FashionMNIST_ANN.git
     cd fashion-mnist-classification
     ```
 
